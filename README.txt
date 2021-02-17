@@ -1,4 +1,4 @@
-﻿/*
+﻿/* Test
  *  More Lua Power, made by Golden Epsilon
  *  Tons of stuff added by Sunreal
  *  PetBuff for MoreLuaPower by stephanreiken
